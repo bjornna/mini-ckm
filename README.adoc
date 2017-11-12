@@ -1,0 +1,6 @@
+= mini-ckm
+== What?
+A minimal ckm for testing purposes. 
+
+== Why? 
+Testing some repo tools. 
